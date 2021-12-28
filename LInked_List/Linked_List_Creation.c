@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<stdlib.h> //Using for memory allocation
+#include<stdlib.h> //Used for memory allocation
 
 //Creating the blueprint for our node
 struct node{
