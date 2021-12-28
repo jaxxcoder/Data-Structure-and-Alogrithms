@@ -10,7 +10,7 @@ struct node{
 
 };
 
-//Funtion for our LInked List Traversal or printing our Linked list
+//Funtion for our Linked List Traversal or printing our Linked list
 void Traversal(struct node * ptr)
 {
     //Runs till ptr->next==NULL
@@ -52,4 +52,4 @@ int main()
     return 0;
 }
 
-//***************************************Written by jaxxcoder***************************************
+//**************************************Written by jaxxcoder***************************************
