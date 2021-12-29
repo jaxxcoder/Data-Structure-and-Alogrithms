@@ -95,7 +95,7 @@ int main()
 
     printf("*************************************************\n");
     printf("Printing the values of our Linked List after inserting a new node at last\n");
-    //Inserting a new node at first using our coustom function insertionAtLast()
+    //Inserting a new node at last using our coustom function insertionAtLast()
     head=insertionAtLast(head,50);
     Traversal(head);
 
